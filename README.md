@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 Currently exploring cybersecurity, delving into securing digital landscapes with Machine Learning and blockchain.<br><br>👯  Open to collaborating on projects that unite Machine Learning with cybersecurity for innovative solutions.  Interested in collaborations dedicated to advancing cybersecurity strategies and practices.<br><br>🤝 Seeking help to enhance ML skills for cybersecurity<br><br>🌱 Learning advanced ML for cybersecurity, decentralized wonders of blockchain, and the evolving cloud security landscape.<br><br>⚡ Fun fact: Simulated a cybersecurity attack to better understand response strategies, proving learning can be informative.
+# About me:
+Cybersecurity professional and software developer with hands-on experience in adversary emulation, breach simulations, and incident response. I combine offensive security expertise with development skills in NestJS, Angular, MongoDB, and PostgreSQL to create tailored security automation, monitoring, and simulation tools.
+
+I’m always open to collaborating on security research, contributing to open-source projects, or building tools that push the boundaries of threat detection and emulation.
 
 
 ## 🌐 Socials:
